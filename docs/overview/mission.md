@@ -13,7 +13,7 @@ Eden improves this by fostering a commons for the generative AI space.
 Our core principles are:
 
 - **Open source and open access**. We believe in the power of open source software to foster innovation, collaboration, and democratization in AI.
-- **Creator-centric**. We believe that creators should in charge and in control of their own data and artistic outputs.
+- **Creator-centric**. We believe that creators should be in charge and in control of their own data and artistic outputs.
 - **Interoperable and composable**. We strive to make our tools maximally expandable, adaptable, and interoperable with other platforms and tools.
 
 Problems we are trying to solve:
